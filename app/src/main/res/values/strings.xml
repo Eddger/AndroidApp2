@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="username">Enter your Username</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="password">Enter your password</string>
+    <string name="click_here">Click here</string>
+    <string name="login_page">Login Page</string>
+    <string name="welcome_to_your_dashboard">Your Dashboard</string>
+    <string name="user_profile">User Profile</string>
+    <string name="course_outline">Course Outline</string>
+    <string name="results">Results</string>
+    <string name="fees">"Fees / Charges "</string>
+</resources>
